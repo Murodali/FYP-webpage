@@ -1,0 +1,39 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.image-container{
+ 
+
+  width: auto;
+  height: 500px;
+ 
+  margin-top: 10px;
+ 
+  color: rgb(59, 40, 40);
+  font-weight: bold;
+  font-size: 3em;
+  text-align: center;
+ word-break: break-all;
+}
+img{
+  height: 100vh;
+  width: auto;
+}
+.p-size{
+  font-size: 24px;
+}
+.card-img{
+  height: 150px;
+  width: 150px;
+  justify-content: center;
+}
+.no-borders{
+  border: 0ch;
+  border-top: 0ch;
+  border-bottom: 0ch;
+  border-right: 0ch;
+  border-left: 0ch;
+}
